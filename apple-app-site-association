@@ -1,0 +1,11 @@
+{
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “53APD5F9YQ.com.epam.ami.dev”,
+                “paths”: [“*”],
+            }
+        ]
+    }
+}
