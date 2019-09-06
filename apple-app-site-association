@@ -2,22 +2,10 @@
     "applinks": {
         "apps": [],
         "details": [
-            {
-                "appID": "6C5B687R9E.com.epam.ami",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "6C5B687R9E.com.epam.ami.dev",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "6C5B687R9E.com.epam.ami.*",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "6C5B687R9E.com.epam.*",
-                "paths": [ "*" ]
-            }
+            "6C5B687R9E.com.epam.ami.dev":
+                {
+                    "paths": [ "*" ]
+                },
         ]
     }
 }
