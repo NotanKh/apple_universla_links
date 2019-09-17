@@ -3,11 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "53APD5F9YQ.com.epam.ami.dev",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "M9KGL5YU4V.com.epam.ami.dev",
+                "appID": "6C5B687R9E.com.epam.ami.dev",
                 "paths": [ "*" ]
             }
         ]
