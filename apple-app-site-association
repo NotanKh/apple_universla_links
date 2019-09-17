@@ -7,10 +7,6 @@
                 "paths": [ "*" ]
             },
             {
-                "appID": "M9KGL5YU4V.com.epam.ami.dev",
-                "paths": [ "*" ]
-            },
-            {
                 "appID": "6C5B687R9E.com.epam.ami.dev",
                 "paths": [ "*" ]
             }
