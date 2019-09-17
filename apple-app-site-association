@@ -9,7 +9,7 @@
             {
                 "appID": "M9KGL5YU4V.com.epam.ami.dev",
                 "paths": [ "*" ]
-            },
+            }
         ]
     }
 }
